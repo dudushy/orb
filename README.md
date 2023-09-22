@@ -1,2 +1,2 @@
-# [template-web](https://github.com/dudushy/template-web/)
+# [orb](https://github.com/dudushy/orb/)
 Template for Web projects.
